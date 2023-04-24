@@ -1,0 +1,26 @@
+.landmarks {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+
+.landmark {
+	padding: 10px;
+	display: flex;
+	align-items: space-around;
+	justify-content: center;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 90px;
+	margin: 10px;
+	flex-basis: 100px;
+}
+
+.landmark img {
+	width: 150px;
+	border-radius: 90px;
+}
+
+.landmark:hover {
+  transform: translate3D(0,-3px,0) scale(1.08);
+}

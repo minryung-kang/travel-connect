@@ -1,0 +1,12 @@
+.Wifi {
+	padding: 1px;
+	align-items: space-around;
+	justify-content: center;
+	border-radius: 150px;
+	margin: 0px 0px 0px 0px;
+}
+
+.Wifi img {
+	width: 400px;
+	border-radius: 150px;
+}

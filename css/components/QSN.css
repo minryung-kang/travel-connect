@@ -1,0 +1,13 @@
+.QSN {
+	padding: 1px;
+	align-items: space-around;
+	justify-content: center;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.2);
+	border-radius: 150px;
+	margin: 0px 100px 50px 0px;
+}
+
+.QSN img {
+	width: 300px;
+	border-radius: 150px;
+}
